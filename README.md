@@ -9,3 +9,5 @@ run the script using:
 `./setup.sh`
 
 Some setups are run as SUDO, so it will prompt when necessary.
+
+As some steps are user specific, do not add `sudo` before script file.
