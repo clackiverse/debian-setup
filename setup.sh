@@ -9,7 +9,8 @@ fi
 
 echo installing python + curl/
 $SUDO apt-get update
-$SUDO apt-get install python-rpi.gpio python3-rpi.gpio curl
+$SUDO apt-get install curl wget git
+$SUDO apt-get install python-pip
 
 echo installing konsole
 $SUDO apt-get install konsole
